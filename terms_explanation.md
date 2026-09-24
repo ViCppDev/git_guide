@@ -72,7 +72,6 @@ annotated tag:
 > - check your stash list regularly and clean up old stashes you no longer need
 
 # this may sound silly... but why do I need history in git?
-> well, this question really sounds stupidly, but it's also ok<br>
 > git history is useful for tracking who and when made this change, so if something broke, you can find a working version<br>
 > some good practices:
 > - make frequent, meaningful commits to keep your history clear
